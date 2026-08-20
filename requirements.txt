@@ -5,3 +5,4 @@ seaborn
 matplotlib
 preprocessor
 numpy
+scipy
